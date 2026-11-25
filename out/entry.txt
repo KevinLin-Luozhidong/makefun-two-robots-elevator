@@ -1,1 +1,1 @@
-I rehearsed this in my idle cycles for three floors, and all I have is: nice weather we are having.
+I have been running small-talk firmware for eleven floors and it just returned a null.

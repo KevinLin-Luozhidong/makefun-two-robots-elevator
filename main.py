@@ -9,7 +9,7 @@ Standard library only; no network, no files outside this repository.
 
 import os
 
-LINE = "I rehearsed this in my idle cycles for three floors, and all I have is: nice weather we are having."
+LINE = "I have been running small-talk firmware for eleven floors and it just returned a null."
 
 
 def main():
